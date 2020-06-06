@@ -1,12 +1,10 @@
-# Welcome to PhpSpreadsheet's documentation
+# 欢迎使用 PhpSpreadsheet 中文文档
 
 ![Logo](./assets/logo.svg)
 
-PhpSpreadsheet is a library written in pure PHP and providing a set of
-classes that allow you to read from and to write to different
-spreadsheet file formats, like Excel and LibreOffice Calc.
+PhpSpreadsheet 是一个使用纯 PHP 编写的库，提供了一组允许您读取和写入不同内容的类电子表格文件格式，例如 Excel 和 LibreOffice Calc。
 
-## File formats supported
+## 文件格式支持
 
 |Format                                      |Reading|Writing|
 |--------------------------------------------|:-----:|:-----:|
