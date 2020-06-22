@@ -19,9 +19,9 @@ PhpSpreadsheet 是一个使用纯 PHP 编写的库，提供了一组允许您读
 |CSV                                         |   ✓   |   ✓   |
 |PDF (using either the TCPDF, Dompdf or mPDF libraries, which need to be installed separately)|       |   ✓   |
 
-# Getting started
+# 起步
 
-## Software requirements
+## 软件需求
 
 PHP version 7.2 or newer to develop using PhpSpreadsheet. Other requirements, such as PHP extensions, are enforced by
 composer. See the `require` section of [the composer.json file](https://github.com/PHPOffice/PhpSpreadsheet/blob/master/composer.json)
